@@ -82,7 +82,44 @@ For example:
 
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/eg4.png" alt="eg4" height="480">
-</div>   
+</div>    
 
 
+The Checking for Non-Matches    
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Checking4NonMatches.png" alt="Checking4NonMatches" width="640" height="480">
+</div>    
 
+Filter with a range value
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/FilteringWithARange.png" alt="FilteringWithARange" width="640"  height="480">
+</div>    
+
+
+Filter No Value
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Filter0Value.png" alt="Filter0Value">
+</div>    
+
+
+### Advance filtering
+#### IN operator
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/INOperator.png" alt="INOperator" width="480">
+</div>    
+
+#### OR operator
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/OROperator.png" alt="OROperator" width="640 height="480">
+</div>    
+
+### NOT operator
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/NOTOperator.png" alt="NOTOperator" height="480">
+</div>    
+
+
+![Alt text](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SyntaxNOT.png)

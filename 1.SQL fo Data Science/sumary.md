@@ -20,16 +20,23 @@
 | A column whose value uniquely identify every row in the table | One of more column that can be used together to identify a single row in another table |
 
 
-- ER diagram        
+ER diagram        
+
 Chen Notation   
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/ChenNotation.png" alt="ChenNotation" width="640" height="480">
 </div>      
-<!-- ![ChenNotation](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/ChenNotation.png)    -->     
+
 Crow's foot notation    
-![CrowFoot](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Crow'sNotation.png)   
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Crow'sNotation.png" alt="Crow's Foot Notation" width="640" height="480">
+</div>      
+  
 UML class   
-![UML](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UMLClass.png)  
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UMLClass.png" alt="UML Class" width="640" height="480">
+</div>   
+
 
 
 

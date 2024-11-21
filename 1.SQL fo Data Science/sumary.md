@@ -63,14 +63,26 @@ How to create Temporary table
 </div>      
 
 
+## Filtering 
+Use the WHERE claude operator looking for column name operator value.
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/FilteringUseWHERE.png" alt="FilteringUseWHERE">
+</div>   
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/WHEREClauseOperators.png" alt="WHEREClauseOperators" width="640" height="480">
+</div>   
 
 
+For example:        
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/eg3.png" alt="eg3" width="640" height="480">
+</div>   
 
 
-
-
-
-
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/eg4.png" alt="eg4" height="480">
+</div>   
 
 
 

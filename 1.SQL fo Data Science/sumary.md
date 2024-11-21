@@ -1,4 +1,7 @@
 # Course 1: Learn SQL basic syntax
+## Certificate
+![Alt text](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/C1.png)
+
 ## Relation database models, define and describe both relational and transactional database models
 
 | Relation | Transaction |
@@ -19,10 +22,11 @@
 
 - ER diagram        
 Chen Notation   
-![ChenNotation]()   
+![ChenNotation](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/ChenNotation.png)   
 Crow's foot notation    
-![CrowFoot]()   
+![CrowFoot](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Crow'sNotation.png)   
 UML class   
+![UML](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UMLClass.png)  
 
 
-![Alt text]()
+

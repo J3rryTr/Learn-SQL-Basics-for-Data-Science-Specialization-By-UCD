@@ -48,6 +48,29 @@ Create and adding value into a table
 
 - For example   
 <div style="text-align:center">
-<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/eg1.png" alt="E.G1" width="640" height="480">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/eg1.png" alt="eg1" width="640" height="480">
 </div>      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/eg2.png" alt="eg2" width="640" height="480">
+</div>      
+
+Create Temporary tables     
+The temporary table can be deleted when current session is terminated   
+How to create Temporary table   
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/CreateTemporaryTable.png" alt="TB1" width="640" height="480">
+</div>      
+
+
+
+
+
+
+
+
+
+
+
+
 

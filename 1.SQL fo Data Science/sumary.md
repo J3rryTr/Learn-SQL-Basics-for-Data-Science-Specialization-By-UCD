@@ -38,5 +38,16 @@ UML class
 </div>   
 
 
+SQL Syntax
+SELECT: selection column    
+FROM: specific table    
+LIMIT: limited show the number of rows  
+NULL: whether column can accept value or not    
 
+Create and adding value into a table
+
+- For example   
+<div style="text-align:center">
+<img src="" alt="E.G1" width="640" height="480">
+</div>      
 

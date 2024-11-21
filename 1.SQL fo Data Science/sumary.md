@@ -22,7 +22,10 @@
 
 - ER diagram        
 Chen Notation   
-![ChenNotation](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/ChenNotation.png)   
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/ChenNotation.png" alt="ChenNotation" width="640" height="480">
+</div>      
+<!-- ![ChenNotation](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/ChenNotation.png)    -->     
 Crow's foot notation    
 ![CrowFoot](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Crow'sNotation.png)   
 UML class   

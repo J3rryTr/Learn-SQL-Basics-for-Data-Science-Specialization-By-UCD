@@ -118,7 +118,7 @@ Filter No Value
 ### NOT operator
 
 <div style="text-align:center">
-<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/NOTOperator.png" alt="NOTOperator" height="480">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/NOTOperator.png" alt="NOTOperator" >
 </div>    
 
 

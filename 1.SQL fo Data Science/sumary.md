@@ -1,7 +1,4 @@
-# Course 1: Learn SQL basic syntax
-## Certificate
-![Alt text](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/C1.png)
-
+# SUMMARY COURSE
 ## Relation database models, define and describe both relational and transactional database models
 
 | Relation | Transaction |
@@ -105,11 +102,15 @@ Filter No Value
 ### Advance filtering
 #### IN operator
 
+Specifies a range of condition comma delimited list of value, for example:
+
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/INOperator.png" alt="INOperator" width="480">
 </div>    
 
 #### OR operator
+
+Use for any rows matching the specific conditions.
 
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/OROperator.png" alt="OROperator" width="640 height="480">
@@ -117,9 +118,51 @@ Filter No Value
 
 ### NOT operator
 
+Use for show a condition
+
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/NOTOperator.png" alt="NOTOperator" >
 </div>    
 
 
 ![Alt text](https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SyntaxNOT.png)
+
+
+
+### Wildcards
+- Use % for wildcard
+- Special character used to match parts of a value
+- Search pattern made from literal on wildcard character of combination
+- Use LIKE as an operator
+- Only used with strings but cannot uses for non-datatype.
+
+
+| Wildcard | Action |
+| -------- | -------- |
+| %object | Grabs anything ending with the word |  
+| object% | Grabs anything before with the word |
+| %object% | Grabs anything before and ending with the word |
+| S%E | Grabs anything that start with "S" and end "E" the word |
+| t%@gmail.com | Grab gmail addresses that start with "t" |
+
+Underscore for wildcard
+- Matches a single character
+- It is not supported by DB2    
+<strong> WHERE size LIKE '_pizza' --> spizza /mpizza </strong>(In a lis of table) 
+
+
+### Sorting with ODER BY
+<strong> SELECT column FROM table   
+ODER BY characteristic<strong>   
+RULE:   
+    - Take name of 1 or more columns        
+    - Add a comma after each additional column name     
+    - Can sort by a column not retrieved    
+    - Must always be the last clause in a select statement  
+
+
+- Sorting by column position    
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SortingByColumn.png" alt="SortingByColumn" >
+</div>    
+

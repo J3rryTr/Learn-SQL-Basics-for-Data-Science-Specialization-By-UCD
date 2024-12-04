@@ -215,3 +215,15 @@ The SUM Function
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SumFunc.png" alt="SumFunc" >
 </div>    
+
+
+
+
+Using DISTINCT:     
+- If DISTINCT is not specified, ALL is assumed      
+- Cannot use DISTINCT on COUNT(*)       
+- No value use MIN and MAX function     
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UsingDistinct.png" alt="UsingDistinct" >
+</div>      
+

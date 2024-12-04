@@ -153,7 +153,7 @@ Underscore for wildcard
 
 ### Sorting with ODER BY
 <strong> SELECT column FROM table   
-ODER BY characteristic<strong>   
+ODER BY characteristic</strong>   
 RULE:   
     - Take name of 1 or more columns        
     - Add a comma after each additional column name     

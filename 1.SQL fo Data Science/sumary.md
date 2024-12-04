@@ -180,11 +180,13 @@ RULE:
 >the total number of row       
 >the avg
 - The Function:     
+<strong>
 >AVG()      
 >COUNT()        
 >MIN()      
 >MAX()      
 >SUM()      
+</strong>     
 
 The AVERAGE Function        
 <div style="text-align:center">
@@ -205,17 +207,15 @@ NULL value are ignored by the MIN and MAX functions
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/MaxFunc.png" alt="MaxMFunc" >
 </div>    
-
 <div style="text-align:center">
-<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/MinFunc.png" alt="MinFunc" >
-</div>    
-
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/MaxxFunc.png" alt="MaxxFunc" >
+</div>      
+The MIN same thing
 
 The SUM Function        
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SumFunc.png" alt="SumFunc" >
 </div>    
-
 
 
 
@@ -227,3 +227,6 @@ Using DISTINCT:
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UsingDistinct.png" alt="UsingDistinct" >
 </div>      
 
+
+### Grouping Data
+- Using <strong>GROUP BY</strong>

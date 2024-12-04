@@ -148,7 +148,7 @@ Use for show a condition
 Underscore for wildcard
 - Matches a single character
 - It is not supported by DB2    
-<strong> WHERE size LIKE '_pizza' --> spizza /mpizza </strong>(In a lis of table) 
+<strong> WHERE size LIKE '_pizza' --> spizza /mpizza </strong>(In a list of table) 
 
 
 ### Sorting with ODER BY
@@ -166,3 +166,52 @@ RULE:
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SortingByColumn.png" alt="SortingByColumn" >
 </div>    
 
+
+- Sort direction    
+<strong>DESC</strong>: descending order     
+<strong>ASC</strong>: ascending order   
+--> Only applying to the column names it directly precedes.     
+
+
+### Aggregate functions
+- Used to summarize data        
+- Finding       
+>the higher and lower values   
+>the total number of row       
+>the avg
+- The Function:     
+>AVG()      
+>COUNT()        
+>MIN()      
+>MAX()      
+>SUM()      
+
+The AVERAGE Function        
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/avgFunc.png" alt="avgFunc" >
+</div>    
+
+
+The COUNT Function      
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/CountFunc.png" alt="CountFunc" >
+</div>    
+
+
+The MAX and MIN Function        
+
+NULL value are ignored by the MIN and MAX functions     
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/MaxFunc.png" alt="MaxMFunc" >
+</div>    
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/MinFunc.png" alt="MinFunc" >
+</div>    
+
+
+The SUM Function        
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SumFunc.png" alt="SumFunc" >
+</div>    

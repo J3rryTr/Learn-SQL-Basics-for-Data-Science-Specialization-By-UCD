@@ -176,17 +176,17 @@ RULE:
 ### Aggregate functions
 - Used to summarize data        
 - Finding       
->the higher and lower values   
->the total number of row       
->the avg
+    >the higher and lower values   
+    >the total number of row       
+    >the avg
 - The Function:     
-<strong>
->AVG()      
->COUNT()        
->MIN()      
->MAX()      
->SUM()      
-</strong>     
+    <strong>
+    >AVG()      
+    >COUNT()        
+    >MIN()      
+    >MAX()      
+    >SUM()      
+    </strong>     
 
 The AVERAGE Function        
 <div style="text-align:center">
@@ -229,4 +229,51 @@ Using DISTINCT:
 
 
 ### Grouping Data
-- Using <strong>GROUP BY</strong>
+- Using <strong>GROUP BY</strong>       
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/GroupEg.png" alt="GroupEg" >
+</div>      
+
+- Group By clause can contain multiple statement    
+- Every column in your SELECT statement must be present in a GROUP BY clause, expect for aggregated calculations        
+- NULLs will be grouped together if yours GROUP BY column contain NULLs     
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/GroupingEg.png" alt="GroupingEg" >
+</div>      
+
+<strong> WHERE and HAVING </strong>     
+- <strong> WHERE</strong> filters before data is grouped    
+- <strong> HAVING</strong> filters after data is grouped    
+- Rows eliminated by WHERE clause will not be a included in the group       
+
+<strong>OTHER BY with GROUP BY</stong>      
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/Otherwithgroup.png" alt="Otherwithgroup" >
+</div>      
+
+
+### Subqueries
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SubqueriesUsage.png" alt="SubqueriesUsage" >
+</div>      
+
+#### Practices
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SinS.png" alt="SinS" >
+</div>  
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SubqueryForCal.png" alt="SubqueryForCal" >
+</div>      
+
+
+### Join tables
+- Benefit of breaking data into tables
+    - Efficient storage     
+    - Easier manipulation       
+    - Greater scalability       
+    - Logically models a process        
+    - Tables are related through common values      
+

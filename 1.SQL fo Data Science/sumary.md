@@ -129,7 +129,7 @@ Use for show a condition
 
 
 
-### Wildcards
+## Wildcards
 - Use % for wildcard
 - Special character used to match parts of a value
 - Search pattern made from literal on wildcard character of combination
@@ -151,7 +151,7 @@ Underscore for wildcard
 <strong> WHERE size LIKE '_pizza' --> spizza /mpizza </strong>(In a list of table) 
 
 
-### Sorting with ODER BY
+## Sorting with ODER BY
 <strong> SELECT column FROM table   
 ODER BY characteristic</strong>   
 RULE:   
@@ -228,7 +228,7 @@ Using DISTINCT:
 </div>      
 
 
-### Grouping Data
+## Grouping Data
 - Using <strong>GROUP BY</strong>       
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/GroupEg.png" alt="GroupEg" >
@@ -253,12 +253,12 @@ Using DISTINCT:
 </div>      
 
 
-### Subqueries
+## Subqueries
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SubqueriesUsage.png" alt="SubqueriesUsage" >
 </div>      
 
-#### Practices
+### Practices
 
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SinS.png" alt="SinS" >
@@ -269,7 +269,7 @@ Using DISTINCT:
 </div>      
 
 
-### Join tables
+## Join tables
 - Benefit of breaking data into tables
     - Efficient storage     
     - Easier manipulation       
@@ -315,7 +315,7 @@ Inner Join
 </div>      
 
 
-#### Aliases and Self Joins
+### Aliases and Self Joins
 
 Aliases:        
 - Give a table or column a temporary        
@@ -343,10 +343,67 @@ Self-Joins
 </div>      
 
 
-### Union
+## Union
 How to use:     
 <div style="text-align:center">
 <img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UnionEg.png" alt="UnionEg" >
 </div>      
 
 
+## Working with Text String
+Support Join 
+String Function:       
+
+> Concatenate     
+> Substring  
+> Trim  
+> Upper     
+> Lower     
+
+For example:
+
+- Concatenate       
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/concatenateEg.png" alt="concatenateEg" >
+</div>      
+
+
+- Trim      
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/TrimStringEg.png" alt="TrimStringEg" >
+</div>      
+
+- Substring     
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SubstringEg.png" alt="SubstringEg" >
+</div>      
+
+- Upper and lower       
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UpperLower.png" alt="UpperLower" >
+</div>      
+
+### Working with Datetime String 
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/DateTimeString.png" alt="DateTimeString" >
+</div>      
+
+## Case Statement   
+Its like if_else statement other programming language       
+Can be used in SELECT, INSERT, DELETE, and UPDATE statement         
+Syntax:     
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/casestatementsyntax.png" alt="casestatementsyntax" >
+</div>      
+
+Example:        
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/CaseStatementEg.png" alt="CaseStatementEg" >
+</div>      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/CaseStatementSearchEg.png" alt="CaseStatementSearchEg" >
+</div>      
+
+
+## View

@@ -277,3 +277,76 @@ Using DISTINCT:
     - Logically models a process        
     - Tables are related through common values      
 
+Cross Join      
+Each row form the first tables join with all the rows of another table      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/CatesianCrossJoin.png" alt="CatesianCrossJoin" >
+</div>      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/CartesianEg.png" alt="CartesianEg" >
+</div>      
+
+Inner Join      
+
+- Matching values in both table
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/InnerJoin.png" alt="InnerJoin" >
+</div>      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/InnerEg.png" alt="InnerEg" >
+</div>      
+
+- Syntax: INNER JOIN        
+    > Join condition FROM clause and uses the ON clause      
+    > Joining more tables together affects overall database performance     
+    > Join multiple table, no limited       
+    > List all table, and then define condition     
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/InnerJoinWithMultiple.png" alt="InnerJoinWithMultiple" >
+</div>      
+
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SQLInnerJoin.png" alt="SQLInnerJoin" >
+</div>      
+
+
+#### Aliases and Self Joins
+
+Aliases:        
+- Give a table or column a temporary        
+- Make column name more readable        
+- Eg:       
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/aliases.png" alt="aliasesEg" >
+</div>      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/aliasesEg.png" alt="CartesianEg" >
+</div>      
+
+
+Self-Joins      
+- Match customers from the same city        
+- Take table and treat it like two separate tables      
+- Join table origin to itself       
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SelfJoin.png" alt="SelfJoin" >
+</div>      
+
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/SelfJoinEg.png" alt="SelfJoinEg" >
+</div>      
+
+
+### Union
+How to use:     
+<div style="text-align:center">
+<img src="https://github.com/J3rryTr/Learn-SQL-Basics-for-Data-Science-Specialization-By-UCD/blob/main/1.SQL%20fo%20Data%20Science/imgs/UnionEg.png" alt="UnionEg" >
+</div>      
+
+
